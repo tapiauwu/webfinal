@@ -2,3 +2,11 @@ html {
   font-family: 'Playfair Display', serif;
   font-size: 20px;
   }
+  .logo{
+    background-color: #fff952;
+    margin: 0px;
+  }
+  .logo img{
+    width: 180px;
+    height: 180px;
+  }
