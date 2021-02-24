@@ -136,27 +136,27 @@ html {
 
 .tw
 {
-  margin-left:1410px;
+  margin-left:1220px;
 }
 
 /*Slider*/
 
 .slider {
-	width: 2200%;
-	margin-left: 60px;
+	width: 650%;
+	margin-left: 100px;
 	overflow: hidden;
 }
 
 .slider ul {
 	display: flex;
 	padding: 0;
-	width: 400%;
+	width: 500%;
 	
-	animation: cambio 20s infinite alternate linear;
+	animation: cambio 40s infinite alternate linear;
 }
 
 .slider li {
-	width:300%;
+	width:500%;
 	list-style: none;
 }
 
