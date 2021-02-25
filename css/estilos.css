@@ -180,5 +180,19 @@ html {
 
 /*Slider*/
 
+/*Cuerpo*/
+.columna h1
+{
+text-align: center;
+}
+.columna h2
+{
+  color: #777;
+  text-align: center;
+}
+.columna p
+{
+  text-align: center;
+}
 
 
