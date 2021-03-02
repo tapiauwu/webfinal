@@ -194,9 +194,25 @@ text-align: center;
 {
   text-align: center;
 }
-.imgmenu
+.imgmenu img
 {
-  
+  max-height: 150px;
+  max-width: 150px;
 }
-
-
+.imgmenu td
+{
+  text-align: center;
+}
+.tablamenu1
+{
+  margin-left: 510px;
+}
+.tablamenu1 table
+{
+  border-spacing: 100px 0px;
+  border-collapse: separate;
+}
+.tablamenu2
+{
+  margin-left: 725px;
+}
