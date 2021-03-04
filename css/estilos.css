@@ -205,7 +205,8 @@ text-align: center;
 }
 .tablamenu1
 {
-  margin-left: 510px;
+  margin-left: 400px;
+  margin-top: 30px;
 }
 .tablamenu1 table
 {
@@ -216,7 +217,7 @@ text-align: center;
 {
   margin-left: 725px;
 }
-
+/*Cuerpo*/
 
 /*Productos*/
 .tablaproductos {
@@ -227,3 +228,9 @@ text-align: center;
    width: 80%;
 }
 /*Productos*/
+
+/*Producto plantilla*/
+.positionvid
+{
+  margin-left:500px;
+}
