@@ -232,5 +232,18 @@ text-align: center;
 /*Producto plantilla*/
 .positionvid
 {
-  margin-left:500px;
+  position:absolute;
+  left:800px;
+  top: 820px;
+}
+
+.precio
+{
+  border-color: #000;
+  border-width: 4px;
+  border-style:solid ;
+  background-color: #e9a1ff;
+  position: absolute;
+  left: 1230px;
+  bottom: 330px;
 }
