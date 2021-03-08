@@ -230,11 +230,20 @@ text-align: center;
 /*Productos*/
 
 /*Producto plantilla*/
-.positionvid
+ :root
+ {
+   --distancia-imagen:40px;
+ }
+.imgprod
+{
+  margin-left: var(--distancia-imagen);
+  margin-top: var(--distancia-imagen);
+}
+.positionval
 {
   position:absolute;
-  left:800px;
-  top: 820px;
+  left:910px;
+  top: 1100px;
 }
 
 .precio
@@ -244,8 +253,23 @@ text-align: center;
   border-style:solid ;
   background-color: #e9a1ff;
   position: absolute;
-  left: 1230px;
-  bottom: 270px;
+  left: 1050px;
+  bottom: 290px;
+}
+.positionvid
+{
+  position: absolute;
+  left: 910px;
+  bottom: -150px;
+}
+.txtprod
+{
+  text-align: justify;
+  width: 800px;
+  height: 600px;
+  position: absolute;
+  top: 900px;
+  left: 70px;
 }
     /*Estrellas*/
     :root {
